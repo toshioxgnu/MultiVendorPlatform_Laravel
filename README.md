@@ -1,0 +1,1 @@
+# MultiVendorPlatform_Laravel
